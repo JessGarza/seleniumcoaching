@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Cucumber" time="35.389" tests="1" skipped="0" failures="0" errors="0">
+<testcase classname="Automation Practice Site" name="As a user I will log in and log out" time="35.174">
+<system-out><![CDATA[
+Given The user is in MyAccount page.........................................passed
+Then The user verifies that is in MyAccount page............................passed
+When The user provide email and password and click submit...................passed
+When The user is directed to next page......................................passed
+When The user click on Sign out.............................................passed
+]]></system-out>
+</testcase>
+</testsuite>
